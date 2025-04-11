@@ -64,10 +64,11 @@
     "axios": "^1.8.4",
     "dotenv": "^16.4.7",
     "emoji-name-map": "^1.2.8",
+    "express": "5.1.0",
+    "github-readme-stats": "file:",
     "github-username-regex": "^1.0.0",
     "upgrade": "^1.1.0",
-    "word-wrap": "^1.2.5",
-    "express": "5.1.0"
+    "word-wrap": "^1.2.5"
   },
   "lint-staged": {
     "*.{js,css,md}": "prettier --write"
